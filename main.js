@@ -1,3 +1,3 @@
 function test(){
-    window.location.href ="index2.html";
+    window.location.href ="https://www.youtube.com/@ninckfn";
 }
